@@ -1,0 +1,14 @@
+.hero-active {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  align-items: center;
+  width: 100%;
+  backface-visibility: hidden;
+  perspective: 1000px;
+}
